@@ -1,0 +1,54 @@
+body {
+    background-color:#023024;
+}
+#style1 {
+    height: 70px; 
+    background-color: rgb(117, 49, 78);
+}
+#style2 {
+    text-shadow: 3px 3px 0 #11034d;
+}
+#style3 {
+    color: rgb(253, 253, 253);
+}
+#style4 { 
+    width: 500px; 
+    height: 500px; 
+    border-radius: 100px; 
+    background-color: rgb(12, 156, 223);
+}
+#date {
+    font-size: 20px;
+}
+#ipv4 {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#country {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#city {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#time_zone {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#isp {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#lang {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#curr {
+    margin-bottom: 4px; 
+    font-size: 30px;
+}
+#imgg {
+    width: 30px; 
+    height: 20px;
+}
