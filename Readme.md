@@ -2,8 +2,11 @@
 
 This project is a web-based application that uses the IP Data API to detect and display information about the user's IP address, country, timezone, etc. It functions similarly to "what's my IP" websites.
 
-Preview:
-<a href="https://ibb.co/ccCFSg7"><img src="https://i.ibb.co/ccCFSg7/screenshot.png" alt="screenshot" border="0"></a>
+## Preview
+
+[![Preview](https://i.ibb.co/ccCFSg7/screenshot.png)](https://ibb.co/ccCFSg7)
+
+Click the image to view the preview.
 
 ## About the Developer
 I'm a passionate 16-year-old programmer from Greece, dedicated to creating practical and innovative solutions.
