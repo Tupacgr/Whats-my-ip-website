@@ -2,14 +2,14 @@
 
 This project is a web-based application that uses the IP Data API to detect and display information about the user's IP address, country, timezone, etc. It functions similarly to "what's my IP" websites.
 
-![Preview](https://ibb.co/ccCFSg7)
+![Preview](<a href="https://ibb.co/ccCFSg7"><img src="https://i.ibb.co/ccCFSg7/screenshot.png" alt="screenshot" border="0"></a>)
 
 ## About the Developer
 I'm a passionate 16-year-old programmer from Greece, dedicated to creating practical and innovative solutions.
 
 ## Contact Information
 - **Email**: [johnlar0701@gmail.com](mailto:johnlar0701@gmail.com)
-- **Discord**: [fronxofficial]
+- **Discord**: fronxofficial
 - **Discord Server**: [https://discord.gg/PwhxFQkDTN](https://discord.gg/PwhxFQkDTN)
 
 Feel free to reach out for inquiries, suggestions, or collaborations!
